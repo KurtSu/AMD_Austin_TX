@@ -1,0 +1,3 @@
+These are coding excrcises written for the position of https://jobs.amd.com/job/Austin-Software-Development-Engineer-1-Texa/853677600/ by Tianwen Su. Python solution can be found in main.py, JS solution can be found in index.js, SQL solution can be found in query.sql, I did not write solution for Vanilla JS. 
+
+For question 2 of python, there are two functions: json_transformation and json_str_transformation. If your input is a JSON object(a Python dictionary), please use the first one. If your input is a JSON string, please call the second one. 
